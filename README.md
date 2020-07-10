@@ -39,9 +39,9 @@ Actually I'm working on:
 
 ## Contact Me !
 
-:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br>
-:point_right: [My Portfolio](https://www.sylvainallain.fr)<br>
-:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br>
+:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
+:point_right: [My Portfolio](https://www.sylvainallain.fr)<br><br>
+:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
 <!--
