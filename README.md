@@ -4,10 +4,11 @@
 <p align=center>
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
+<!--
 <p align=center>
 <img src="moi.png"></img>
 </p>
-
+-->
 Actually I'm working on: 
 
 * :briefcase: Find a Job !
@@ -16,7 +17,7 @@ Actually I'm working on:
 
 ## My Skills
 <p align=center>
-<img src="skills.png" width="50%"></img>
+<img src="https://github.com/S2LF/S2LF/blob/master/skills.png" width="50%"></img>
 </p>
 
 ## My Projects
