@@ -42,7 +42,7 @@ Actually I'm working on:
 :point_right: [My Portfolio](https://www.sylvainallain.fr)<br>
 :point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br>
 
-
+![visitors](https://visitor-badge.glitch.me/badge?S2LF=S2LF)
 <!--
 **S2LF/S2LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
