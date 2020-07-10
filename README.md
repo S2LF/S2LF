@@ -1,12 +1,47 @@
 
+<h1 align=center>Hi There 👋</h1>
 
-# Hi There 👋
+<p align=center>
+  I'm Sylvain, a french <strong>Web Developer</strong>.
+</p>
+<p align=center>
+<img src="moi.png"></img>
+</p>
 
-I'm Sylvain, web developer PHP
+Actually I'm working on: 
 
-# My Projects
+* :briefcase: Find a Job !
+* :computer: Coding projects with PHP/Symfony5
+* :books: Learning React
 
-* Portfolio : [sylvainallain.fr](https://www.sylvainallain.fr)
+## My Skills
+<p align=center>
+<img src="skills.png" width="50%"></img>
+</p>
+
+## My Projects
+
+:point_right: Portfolio : [sylvainallain.fr](https://www.sylvainallain.fr)
+<p align=center>
+<img src="MonSite.png" width="50%"></img>
+</p>
+
+:point_right: Tof'Box : [tofbox.sylvainallain.fr](https://www.tofbox.sylvainallain.fr)
+<p align=center>
+<img src="tofbox.png" width="50%"></img>
+</p>
+
+:point_right: Joël ALLAIN Photos : [joelallainphotos.fr](https://joelallainphotos.fr)
+<p align=center>
+<img src="joelallainphotos.png" width="50%"></img>
+</p>
+
+## Contact Me !
+
+:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br>
+:point_right: [My Portfolio](https://www.sylvainallain.fr)<br>
+:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br>
+
 
 <!--
 **S2LF/S2LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
