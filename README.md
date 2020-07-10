@@ -21,17 +21,17 @@ Actually I'm working on:
 
 ## My Projects
 
-:point_right: Portfolio : [sylvainallain.fr](https://www.sylvainallain.fr)
+:point_right: **Portfolio** : [sylvainallain.fr](https://www.sylvainallain.fr)
 <p align=center>
 <img src="MonSite.png" width="50%"></img>
 </p>
 
-:point_right: Tof'Box : [tofbox.sylvainallain.fr](https://www.tofbox.sylvainallain.fr)
+:point_right: **Tof'Box** : [tofbox.sylvainallain.fr](https://www.tofbox.sylvainallain.fr)
 <p align=center>
 <img src="tofbox.png" width="50%"></img>
 </p>
 
-:point_right: Joël ALLAIN Photos : [joelallainphotos.fr](https://joelallainphotos.fr)
+:point_right: **Joël ALLAIN Photos** : [joelallainphotos.fr](https://joelallainphotos.fr)
 <p align=center>
 <img src="joelallainphotos.png" width="50%"></img>
 </p>
