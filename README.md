@@ -11,7 +11,7 @@
 
 Actually I'm working on: 
 
-* :briefcase: Find a Job !
+* :briefcase: Doing my Job !
 * :computer: Coding projects with PHP/Symfony5
 * :books: Learning ReactJs & NodeJs
 
