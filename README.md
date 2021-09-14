@@ -11,15 +11,15 @@
 
 Actually I'm working on: 
 
-* :briefcase: Doing my Job !
+* :briefcase: Looking for a Job !
 * :computer: Coding projects with PHP/Symfony5
 * :books: Learning ReactJs & NodeJs
 
 ## My Skills
 <p align=center>
-<img src="https://github.com/S2LF/S2LF/blob/master/skills.png" width="50%"></img>
+<img src="https://github.com/S2LF/S2LF/blob/master/image.png" width="50%"></img>
 </p>
-
+<!--
 ## My Projects
 
 :point_right: **Portfolio** : [sylvainallain.fr](https://www.sylvainallain.fr)
@@ -36,7 +36,7 @@ Actually I'm working on:
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/joelallainphotos.png" width="50%"></img>
 </p>
-
+-->
 ## Contact Me !
 
 :point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
