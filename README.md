@@ -13,7 +13,7 @@ Actually I'm working on:
 
 * :briefcase: Looking for a Job !
 * :computer: Coding projects with PHP/Symfony5
-* :books: Learning ReactJs & NodeJs
+* :books: Practicing ReactJs & NodeJs
 
 ## My Skills
 <p align=center>
