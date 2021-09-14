@@ -19,6 +19,15 @@ Actually I'm working on:
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/image.png" width="50%"></img>
 </p>
+
+## Contact Me !
+
+:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
+:point_right: [My Portfolio](https://www.sylvainallain.fr)<br><br>
+:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+
 <!--
 ## My Projects
 
@@ -37,13 +46,7 @@ Actually I'm working on:
 <img src="https://github.com/S2LF/S2LF/blob/master/joelallainphotos.png" width="50%"></img>
 </p>
 -->
-## Contact Me !
 
-:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
-:point_right: [My Portfolio](https://www.sylvainallain.fr)<br><br>
-:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
 <!--
 **S2LF/S2LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
