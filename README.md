@@ -49,7 +49,7 @@ Actually I'm working on:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br><br>
-<a align='right' href="https://app.daily.dev/S2LF" target="blank"><img align="right" src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="400" alt="S2LF's Dev Card"/></a>
+<a align='right' href="https://app.daily.dev/S2LF" target="blank"><img align="right" src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="40%" alt="S2LF's Dev Card"/></a>
 
 ## Stats
 
