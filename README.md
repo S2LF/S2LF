@@ -39,7 +39,7 @@ Actually I'm working on:
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></img> -->
 <p align="center">
-<a href="https://app.daily.dev/LF" target="blank"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="400"  alt="S2's Dev Card"/></a>
+<a href="https://app.daily.dev/S2LF" target="blank"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="400" alt="S2LF's Dev Card"/></a>
   </p>
   <p align="center">
 <img  src="/github-metrics.svg" alt="Metrics" width="700">
