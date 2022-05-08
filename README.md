@@ -6,10 +6,12 @@
 </p>
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img><br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+
 
 :point_right: [LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
 </p>
+
+
 
 Actually I'm working on: 
 
@@ -18,14 +20,21 @@ Actually I'm working on:
 * :books: Learning Python, I'm curious !
 
 ## My Skills
+<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="350" align="right" alt="S2's Dev Card"/></a>
 <p align=left>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S2LF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2LF&layout=compact&theme=vision-friendly-dark"></img>
 </p>
-<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="256" align="right" alt="S2's Dev Card"/></a>
+
 
 ## My Stats
 
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=S2LF&theme=dark&background=000000"></img>
+
+<br>
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+
 
 <!--
 ## My Projects
