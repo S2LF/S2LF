@@ -34,15 +34,16 @@ Actually I'm working on:
 <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
--->
+--><a align='right' href="https://app.daily.dev/S2LF" target="blank"><img align="right" src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="400" alt="S2LF's Dev Card"/></a>
 ## Skills & Stats
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></img> -->
-<p align="center">
-<a href="https://app.daily.dev/S2LF" target="blank"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="400" alt="S2LF's Dev Card"/></a>
+<p align="right">
+
   </p>
-  <p align="center">
-<img  src="/github-metrics.svg" alt="Metrics" width="700">
+  <p align="left">
+<!-- <img  src="/github-metrics.svg" alt="Metrics" width="700"> -->
+  <img src="/github-metrics.svg" alt="Metrics" width="80%">
   </p>
 <!--
 ## My Projects
