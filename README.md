@@ -4,7 +4,6 @@
 <p align=center>
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
-<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="400" align="right" alt="S2's Dev Card"/></a>
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img>
 </p>
@@ -19,7 +18,7 @@ Actually I'm working on:
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/image.png" width="50%"></img>
 </p>
-
+<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="256" align="right" alt="S2's Dev Card"/></a>
 ## Contact Me !
 
 :point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
