@@ -4,7 +4,7 @@
 <p align=center>
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
-
+<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="400" alt="S2's Dev Card"/></a>
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img>
 </p>
