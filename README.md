@@ -35,6 +35,8 @@ Actually I'm working on:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
 --><a align='right' href="https://app.daily.dev/S2LF" target="blank"><img align="right" src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=hek" width="400" alt="S2LF's Dev Card"/></a>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/S2LF/S2LF/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 ## Skills & Stats
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></img> -->
