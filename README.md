@@ -5,27 +5,27 @@
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
 <p align=center>
-<img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img>
+<img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img><br><br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+
+:point_right: [LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
 </p>
 
 Actually I'm working on: 
 
-* :briefcase: Looking for a Job !
-* :computer: Coding projects with PHP/Symfony5
-* :books: Practicing ReactJs & NodeJs
+* :briefcase: Doing my job as PHP/Symfony & React developper !
+* :computer: Practicing with different languages as PHP, ReactJs & NodeJs
+* :books: Learning Python, I'm curious !
 
 ## My Skills
-<p align=center>
-<img src="https://github.com/S2LF/S2LF/blob/master/image.png" width="50%"></img>
+<p align=left>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S2LF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="256" align="right" alt="S2's Dev Card"/></a>
-## Contact Me !
 
-:point_right: [My Curriculum Vitae](CVSylvainALLAIN.pdf)<br><br>
-:point_right: [My Portfolio](https://www.sylvainallain.fr)<br><br>
-:point_right: [My LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
+## My Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=S2LF&theme=dark&background=000000"></img>
 
 <!--
 ## My Projects
