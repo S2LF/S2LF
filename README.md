@@ -5,7 +5,9 @@
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
 <p align=center>
-<img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img><br><br>
+  <img style="height:auto;" alt="" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/49229770?v=4" width="260" height="260">
+  
+<br>
 </p>
 <p align=center>
 <a href="https://www.linkedin.com/in/sylvain-allain" target="blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
@@ -61,7 +63,13 @@ Actually I'm working on:
 
   <img src="/achievements.svg" alt="Metrics" width="100%"></img>
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+
+
   <!--
+
+<img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img><br>
+
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2LF&layout=compact&theme=vision-friendly-dark"></img>
 </p>
@@ -74,7 +82,6 @@ Actually I'm working on:
 <br>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
 
 ## My Projects
 
