@@ -6,11 +6,10 @@
 </p>
 <p align=center>
 <img src="https://github.com/S2LF/S2LF/blob/master/moi.png"></img><br><br>
-
-
-:point_right: [LinkedIn](https://www.linkedin.com/in/sylvain-allain)<br><br>
 </p>
-
+<p align=center>
+<a href="https://www.linkedin.com/in/sylvain-allain" target="blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</p>
 
 
 Actually I'm working on: 
@@ -19,8 +18,9 @@ Actually I'm working on:
 * :computer: Practicing with different languages as PHP, ReactJs & NodeJs
 * :books: Learning Python, I'm curious !
 
+<!--
 ## My Skills
-<a href="https://app.daily.dev/LF"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="350" align="right" alt="S2's Dev Card"/></a>
+
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2LF&layout=compact&theme=vision-friendly-dark"></img>
 </p>
@@ -34,8 +34,16 @@ Actually I'm working on:
 <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S2LF.S2LF)
+-->
+## Skills & Stats
 
-
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></img> -->
+<p align="center">
+<a href="https://app.daily.dev/LF" target="blank"><img src="https://api.daily.dev/devcards/9917940ff5c6461c9d98c4aa43abb8bc.png?r=tel" width="400"  alt="S2's Dev Card"/></a>
+  </p>
+  <p align="center">
+<img  src="/github-metrics.svg" alt="Metrics" width="700">
+  </p>
 <!--
 ## My Projects
 
