@@ -16,7 +16,7 @@
 
 Actually I'm working on: 
 
-* :briefcase: Doing my job as PHP/Symfony & React developper !
+* :briefcase: Doing my job as PHP/Symfony & React developer !
 * :computer: Practicing with different languages as PHP, ReactJs & NodeJs
 * :books: Learning Python, I'm curious !
 
