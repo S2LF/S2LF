@@ -1,13 +1,14 @@
 
-<h1 align=center>Hi There 👋</h1>
+<!--<h1 align=center>Hi There 👋</h1>
 
 <p align=center>
   I'm Sylvain, a french <strong>Web Developer</strong>.
 </p>
 <p align=center>
-  <img style="height:auto;" alt="" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/49229770?v=4" width="260" height="260">
-  
-<br>
+  <img style="height:auto;" alt="" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/49229770?v=4" width="260" height="260">  
+-->
+![Header](./github-header-image(2).png)
+
 </p>
 <p align=center>
 <a href="https://www.linkedin.com/in/sylvain-allain" target="blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
