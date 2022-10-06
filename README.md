@@ -1,5 +1,5 @@
 
-<!--<h1 align=center>Hi There 👋</h1>
+<!--<h1 align=center>Hi ! 👋</h1>
 
 <p align=center>
   I'm Sylvain, a french <strong>Web Developer</strong>.
